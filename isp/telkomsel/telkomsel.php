@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Telkomsel</title>
+    <link rel="stylesheet" href="../../signbase/style.css">
+  </head>
+  <body>
+
+    <header>
+      <h1>Telkomsel</h1>
+    </header>
+
+    <nav>
+      <a href="../tampilan_isp.php">ISP</a>
+      <a href="../../wifi/tampilan_wifi.php">WiFi</a>
+    </nav>
+    <br><br>
+
+    <nav>
+      <a href="telkomsel_area.php">Area</a>
+      <a href="telkomsel_places.php">Places</a>
+</html>
